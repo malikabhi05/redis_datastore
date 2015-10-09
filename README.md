@@ -68,3 +68,5 @@ The logger routes wrap redis lists, and are used to keep a linear backlog of val
 - **GET /logger/:key** - gets the latest value of a log
 - **PUT /logger/:key** - adds a value to a log (`value` param in POST body)
 - **GET /logger/:key/all** - returns all values of a log
+
+let me add some random stuff here
